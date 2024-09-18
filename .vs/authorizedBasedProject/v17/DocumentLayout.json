@@ -1,0 +1,1262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\web_practice\\authorizedBasedProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B0CBFD-A8D8-471E-8F75-F17F6F01FBCA}|docker-compose.dcproj|f:\\web_practice\\authorizedbasedproject\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{13B0CBFD-A8D8-471E-8F75-F17F6F01FBCA}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\hub\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\hub\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\clothing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\clothing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\controllers\\accessoriesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\controllers\\accessoriesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E239FF10-9CF4-4729-9741-0D75E43FB239}|Infrastructure\\Infrastructure.csproj|f:\\web_practice\\authorizedbasedproject\\infrastructure\\clothingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E239FF10-9CF4-4729-9741-0D75E43FB239}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\clothingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6560163E-6CDC-4D47-848C-082DC59DA0EB}|UseCases\\UseCases.csproj|f:\\web_practice\\authorizedbasedproject\\usecases\\accessoriesusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6560163E-6CDC-4D47-848C-082DC59DA0EB}|UseCases\\UseCases.csproj|solutionrelative:usecases\\accessoriesusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\controllers\\accessoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\controllers\\accessoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\models\\clothingsizeallowed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\models\\clothingsizeallowed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E239FF10-9CF4-4729-9741-0D75E43FB239}|Infrastructure\\Infrastructure.csproj|f:\\web_practice\\authorizedbasedproject\\infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E239FF10-9CF4-4729-9741-0D75E43FB239}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E239FF10-9CF4-4729-9741-0D75E43FB239}|Infrastructure\\Infrastructure.csproj|f:\\web_practice\\authorizedbasedproject\\infrastructure\\accessoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E239FF10-9CF4-4729-9741-0D75E43FB239}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\accessoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\controllers\\clothingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\controllers\\clothingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\accessories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\accessories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\accessories\\_accessoriespartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\accessories\\_accessoriespartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\painting\\_paintingpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\painting\\_paintingpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\clothing\\_clothingpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\clothing\\_clothingpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\accessories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\accessories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\painting\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\painting\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E896B6DA-3063-4DC6-A146-8F04CA17D3FC}|Domain\\Domain.csproj|f:\\web_practice\\authorizedbasedproject\\domain\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E896B6DA-3063-4DC6-A146-8F04CA17D3FC}|Domain\\Domain.csproj|solutionrelative:domain\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E239FF10-9CF4-4729-9741-0D75E43FB239}|Infrastructure\\Infrastructure.csproj|f:\\web_practice\\authorizedbasedproject\\infrastructure\\paintingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E239FF10-9CF4-4729-9741-0D75E43FB239}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\paintingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\controllers\\hubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\controllers\\hubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\controllers\\paintingapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\controllers\\paintingapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\controllers\\clothingapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\controllers\\clothingapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AuctionDatabase/True/SqlTable/dbo.Painting.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\controllers\\paintingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\controllers\\paintingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\cart\\invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\cart\\invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\cart\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\cart\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\cart\\soldproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\cart\\soldproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\cart\\bidplaced.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\cart\\bidplaced.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\painting\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\painting\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\clothing\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\clothing\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\painting\\viewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\painting\\viewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\accessories\\viewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\accessories\\viewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\clothing\\viewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\clothing\\viewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6560163E-6CDC-4D47-848C-082DC59DA0EB}|UseCases\\UseCases.csproj|f:\\web_practice\\authorizedbasedproject\\usecases\\paintingusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6560163E-6CDC-4D47-848C-082DC59DA0EB}|UseCases\\UseCases.csproj|solutionrelative:usecases\\paintingusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6560163E-6CDC-4D47-848C-082DC59DA0EB}|UseCases\\UseCases.csproj|f:\\web_practice\\authorizedbasedproject\\usecases\\clothingusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6560163E-6CDC-4D47-848C-082DC59DA0EB}|UseCases\\UseCases.csproj|solutionrelative:usecases\\clothingusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\clothing\\_clothingsearchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\clothing\\_clothingsearchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\painting\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\painting\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\painting\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\painting\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\painting\\_paintingsearchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\painting\\_paintingsearchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\accessories\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\accessories\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\accessories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\accessories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\accessories\\_accessoriessearchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\accessories\\_accessoriessearchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\clothing\\viewcategorizedproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\clothing\\viewcategorizedproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\clothing\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\clothing\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\clothing\\showcategorizedproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\clothing\\showcategorizedproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\clothing\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\clothing\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\models\\viewmodel\\categorizedproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\models\\viewmodel\\categorizedproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\wwwroot\\css\\project.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\wwwroot\\css\\project.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|f:\\web_practice\\authorizedbasedproject\\authorizedbasedproject\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C6AE98-853E-4E19-BDDF-70F5B5E4CDDD}|authorizedBasedProject\\authorizedBasedProject.csproj|solutionrelative:authorizedbasedproject\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:authorizedBasedProject\\Models\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\GenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:authorizedBasedProject\\Models\\GenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:authorizedBasedProject\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\Clothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:authorizedBasedProject\\Models\\Clothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\Accessories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:authorizedBasedProject\\Models\\Accessories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:17:54.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-18T04:58:30.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Program.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Program.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Program.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Program.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:53:48.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Dockerfile",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Dockerfile",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Dockerfile",
+              "RelativeToolTip": "authorizedBasedProject\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-17T06:24:37.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:47:25.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:19:59.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T13:20:37.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\appsettings.json",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\appsettings.json",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\appsettings.json",
+              "RelativeToolTip": "authorizedBasedProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T06:07:18.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Controllers\\CartController.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Controllers\\CartController.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Controllers\\CartController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwCoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T05:39:46.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Hubs\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Hubs\\NotificationHub.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Hubs\\NotificationHub.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Hubs\\NotificationHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:24:24.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAmwKoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T19:20:31.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Chat.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Hub\\Chat.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Hub\\Chat.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Hub\\Chat.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Hub\\Chat.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T14:55:54.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccessoriesAPIController.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Controllers\\AccessoriesAPIController.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Controllers\\AccessoriesAPIController.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Controllers\\AccessoriesAPIController.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Controllers\\AccessoriesAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:29:28.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClothingRepository.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\Infrastructure\\ClothingRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ClothingRepository.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\Infrastructure\\ClothingRepository.cs",
+              "RelativeToolTip": "Infrastructure\\ClothingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T05:23:58.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Clothing\\Index.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Clothing\\Index.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Clothing\\Index.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Clothing\\Index.cshtml",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAmwLgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T07:15:27.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccessoriesUseCase.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\UseCases\\AccessoriesUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\AccessoriesUseCase.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\UseCases\\AccessoriesUseCase.cs",
+              "RelativeToolTip": "UseCases\\AccessoriesUseCase.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T05:42:59.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccessoriesController.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Controllers\\AccessoriesController.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Controllers\\AccessoriesController.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Controllers\\AccessoriesController.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Controllers\\AccessoriesController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowFcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:58:59.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Models\\Customer.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\Customer.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:12:20.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Models\\ErrorViewModel.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:20:33.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Models\\Order.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\Order.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:20:22.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Models\\ApplicationUser.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:11:23.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\Infrastructure\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GenericRepository.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\Infrastructure\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T05:12:52.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClothingSizeAllowed.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\ClothingSizeAllowed.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Models\\ClothingSizeAllowed.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\ClothingSizeAllowed.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Models\\ClothingSizeAllowed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T10:39:46.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccessoriesRepository.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\Infrastructure\\AccessoriesRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AccessoriesRepository.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\Infrastructure\\AccessoriesRepository.cs",
+              "RelativeToolTip": "Infrastructure\\AccessoriesRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAA2wDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:58:32.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClothingController.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Controllers\\ClothingController.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Controllers\\ClothingController.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Controllers\\ClothingController.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Controllers\\ClothingController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAiwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T10:59:42.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_AccessoriesPartialView.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Accessories\\_AccessoriesPartialView.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Accessories\\_AccessoriesPartialView.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Accessories\\_AccessoriesPartialView.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Accessories\\_AccessoriesPartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T18:04:50.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Accessories\\Add.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Accessories\\Add.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Accessories\\Add.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Accessories\\Add.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGUAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T17:07:02.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Accessories\\Index.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Accessories\\Index.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Accessories\\Index.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Accessories\\Index.cshtml",
+              "ViewState": "AQIAAM4BAAAAAAAAAAAmwG0CAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T07:14:45.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Painting\\Index.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Painting\\Index.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Painting\\Index.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Painting\\Index.cshtml",
+              "ViewState": "AQIAAL8BAAAAAAAAAAAAAOYBAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T07:15:37.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_PaintingPartialView.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Painting\\_PaintingPartialView.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Painting\\_PaintingPartialView.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Painting\\_PaintingPartialView.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Painting\\_PaintingPartialView.cshtml",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAIUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T18:04:19.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ClothingPartialView.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Clothing\\_ClothingPartialView.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Clothing\\_ClothingPartialView.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Clothing\\_ClothingPartialView.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Clothing\\_ClothingPartialView.cshtml",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAmwLIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T18:03:46.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\Domain\\IRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\IRepository.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\Domain\\IRepository.cs",
+              "RelativeToolTip": "Domain\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T05:12:28.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PaintingRepository.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\Infrastructure\\PaintingRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\PaintingRepository.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\Infrastructure\\PaintingRepository.cs",
+              "RelativeToolTip": "Infrastructure\\PaintingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:48:13.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:03:19.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HubController.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Controllers\\HubController.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Controllers\\HubController.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Controllers\\HubController.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Controllers\\HubController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:04:01.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CartAPIController.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Controllers\\CartAPIController.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Controllers\\CartAPIController.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Controllers\\CartAPIController.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Controllers\\CartAPIController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAcwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:10:36.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Account\\login.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Account\\login.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Account\\login.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Account\\login.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T07:15:00.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PaintingAPIController.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Controllers\\PaintingAPIController.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Controllers\\PaintingAPIController.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Controllers\\PaintingAPIController.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Controllers\\PaintingAPIController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAgwGgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:51:15.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ClothingAPIController.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Controllers\\ClothingAPIController.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Controllers\\ClothingAPIController.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Controllers\\ClothingAPIController.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Controllers\\ClothingAPIController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:36:52.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "dbo.Painting [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AuctionDatabase/True/SqlTable/dbo.Painting.sql",
+              "ToolTip": "dbo.Painting [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-26T11:48:42.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PaintingController.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Controllers\\PaintingController.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Controllers\\PaintingController.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Controllers\\PaintingController.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Controllers\\PaintingController.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAUwIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:58:42.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Home\\Admin.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Home\\Admin.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Home\\Admin.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Home\\Admin.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAwwEgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T17:56:22.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BidPlaced.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Cart\\BidPlaced.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Cart\\BidPlaced.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Cart\\BidPlaced.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Cart\\BidPlaced.cshtml",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAmwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T17:24:54.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Invoice.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Cart\\Invoice.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Cart\\Invoice.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Cart\\Invoice.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Cart\\Invoice.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAIBJwGEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T05:15:35.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Cart\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Cart\\GetAll.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Cart\\GetAll.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Cart\\GetAll.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T17:36:00.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SoldProducts.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Cart\\SoldProducts.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Cart\\SoldProducts.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Cart\\SoldProducts.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Cart\\SoldProducts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T12:46:52.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Clothing\\Add.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Clothing\\Add.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Clothing\\Add.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Clothing\\Add.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAMArwGYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T10:56:34.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Painting\\Add.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Painting\\Add.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Painting\\Add.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Painting\\Add.cshtml",
+              "ViewState": "AQIAAI4AAAAAAAAAAABBwHAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T11:09:18.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ViewProduct.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Painting\\ViewProduct.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Painting\\ViewProduct.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Painting\\ViewProduct.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Painting\\ViewProduct.cshtml",
+              "ViewState": "AQIAAEwAAAAAAAAAAABBwFkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T14:20:29.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ViewProduct.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Accessories\\ViewProduct.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Accessories\\ViewProduct.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Accessories\\ViewProduct.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Accessories\\ViewProduct.cshtml",
+              "ViewState": "AQIAAEkAAAAAAAAAAABBwFkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T16:46:50.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ViewProduct.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Clothing\\ViewProduct.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Clothing\\ViewProduct.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Clothing\\ViewProduct.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Clothing\\ViewProduct.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAIBJwFkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T15:39:30.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ClothingUseCase.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\UseCases\\ClothingUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\ClothingUseCase.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\UseCases\\ClothingUseCase.cs",
+              "RelativeToolTip": "UseCases\\ClothingUseCase.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAcwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T05:43:50.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PaintingUseCase.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\UseCases\\PaintingUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\PaintingUseCase.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\UseCases\\PaintingUseCase.cs",
+              "RelativeToolTip": "UseCases\\PaintingUseCase.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T05:44:29.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_ClothingSearchResults.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Clothing\\_ClothingSearchResults.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Clothing\\_ClothingSearchResults.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Clothing\\_ClothingSearchResults.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Clothing\\_ClothingSearchResults.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwCMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T16:37:50.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:19:50.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Painting\\Update.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Painting\\Update.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Painting\\Update.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Painting\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T14:17:20.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Painting\\Delete.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Painting\\Delete.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Painting\\Delete.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Painting\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T14:18:40.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_PaintingSearchResults.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Painting\\_PaintingSearchResults.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Painting\\_PaintingSearchResults.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Painting\\_PaintingSearchResults.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Painting\\_PaintingSearchResults.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T16:44:33.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Accessories\\Update.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Accessories\\Update.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Accessories\\Update.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Accessories\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T17:09:05.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Accessories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Accessories\\Delete.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Accessories\\Delete.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Accessories\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T17:08:03.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "_AccessoriesSearchResults.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Accessories\\_AccessoriesSearchResults.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Accessories\\_AccessoriesSearchResults.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Accessories\\_AccessoriesSearchResults.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Accessories\\_AccessoriesSearchResults.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAABBwAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T16:38:47.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ViewCategorizedProduct.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Clothing\\ViewCategorizedProduct.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Clothing\\ViewCategorizedProduct.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Clothing\\ViewCategorizedProduct.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Clothing\\ViewCategorizedProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T14:41:11.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Clothing\\Update.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Clothing\\Update.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Clothing\\Update.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Clothing\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T16:07:45.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "showCategorizedProduct.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Clothing\\showCategorizedProduct.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Clothing\\showCategorizedProduct.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Clothing\\showCategorizedProduct.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Clothing\\showCategorizedProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T14:29:42.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Clothing\\Delete.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Clothing\\Delete.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Clothing\\Delete.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Clothing\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T17:19:38.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Category.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Models\\Category.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\Category.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Models\\Category.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:40:14.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "site.js",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\wwwroot\\js\\site.js",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "authorizedBasedProject\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-16T15:43:25.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\IRepository.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Models\\IRepository.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\IRepository.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Models\\IRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:46:15.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Clothing.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\Clothing.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Models\\Clothing.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\Clothing.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Models\\Clothing.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:07:35.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Models\\GenericRepository.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\GenericRepository.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Models\\GenericRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:37:08.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Accessories.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\Accessories.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Models\\Accessories.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\Accessories.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Models\\Accessories.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:11:36.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAIBJwA8BAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T06:48:36.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAEwI8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:06:26.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CategorizedProducts.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\ViewModel\\CategorizedProducts.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Models\\ViewModel\\CategorizedProducts.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Models\\ViewModel\\CategorizedProducts.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Models\\ViewModel\\CategorizedProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:11:54.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAGcAAAAAMzMzM3MowCwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:33:55.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "project.css",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\wwwroot\\css\\project.css",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\wwwroot\\css\\project.css",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\wwwroot\\css\\project.css",
+              "RelativeToolTip": "authorizedBasedProject\\wwwroot\\css\\project.css",
+              "ViewState": "AQIAALABAAAAPzMzM3MvwBABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-05T06:41:45.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "authorizedBasedProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAIAAADAMjMzMzMbwAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:20:06.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "signup.cshtml",
+              "DocumentMoniker": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Account\\signup.cshtml",
+              "RelativeDocumentMoniker": "authorizedBasedProject\\Views\\Account\\signup.cshtml",
+              "ToolTip": "F:\\web_practice\\authorizedBasedProject\\authorizedBasedProject\\Views\\Account\\signup.cshtml",
+              "RelativeToolTip": "authorizedBasedProject\\Views\\Account\\signup.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T07:15:17.695Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

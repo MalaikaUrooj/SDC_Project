@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  # Your project service
+  authorizedbasedproject:
+    image: ${DOCKER_REGISTRY-}authorizedbasedproject  # Use the image you just built
+    build:
+      context: .
+      dockerfile: Dockerfile  # Ensure the correct Dockerfile path is referenced
+    ports:
+      - "5218:5218"  # Map the ports for your project
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    depends_on:
+      - db  # The project depends on the database
+    networks:
+      - app-network
+
+  # SQL Server Database Service for Windows52
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest-windows  # Use Windows-based SQL Server image
+    environment:
+      SA_PASSWORD: "YourStrong!Passw0rd"  # Set your SA password
+      ACCEPT_EULA: "Y"  # Accept the SQL Server license agreement
+    ports:
+      - "1433:1433"  # Map the SQL Server port
+    volumes:
+      - mssql_data:/var/opt/mssql  # Persist the database data
+    networks:
+      - app-network
+
+# Define a shared network
+networks:
+  app-network:
+    driver: nat  # Use NAT network for Windows containers
+
+# Define a volume to persist data
+volumes:
+  mssql_data:

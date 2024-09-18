@@ -1,0 +1,54 @@
+name: dockercompose3321867882747073746
+services:
+  authorizedbasedproject:
+    build:
+      context: F:\web_practice\authorizedBasedProject
+      dockerfile: authorizedBasedProject/Dockerfile
+    container_name: authorizedbasedproject
+    depends_on:
+      authorizedbasedprojectdb:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: authorizedbasedproject
+    networks:
+      auctionnetwork: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "8001"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\lenovo\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\lenovo\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+  authorizedbasedprojectdb:
+    container_name: authorizedbasedprojectdb
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: Malaika@2209
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    networks:
+      auctionnetwork: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "8002"
+        protocol: tcp
+networks:
+  auctionnetwork:
+    name: dockercompose3321867882747073746_auctionnetwork

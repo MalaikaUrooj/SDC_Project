@@ -1,0 +1,15 @@
+F:\web_practice\authorizedBasedProject\UseCases\bin\Debug\net8.0\UseCases.deps.json
+F:\web_practice\authorizedBasedProject\UseCases\bin\Debug\net8.0\UseCases.dll
+F:\web_practice\authorizedBasedProject\UseCases\bin\Debug\net8.0\UseCases.pdb
+F:\web_practice\authorizedBasedProject\UseCases\bin\Debug\net8.0\Domain.dll
+F:\web_practice\authorizedBasedProject\UseCases\bin\Debug\net8.0\Domain.pdb
+F:\web_practice\authorizedBasedProject\UseCases\obj\Debug\net8.0\UseCases.csproj.AssemblyReference.cache
+F:\web_practice\authorizedBasedProject\UseCases\obj\Debug\net8.0\UseCases.GeneratedMSBuildEditorConfig.editorconfig
+F:\web_practice\authorizedBasedProject\UseCases\obj\Debug\net8.0\UseCases.AssemblyInfoInputs.cache
+F:\web_practice\authorizedBasedProject\UseCases\obj\Debug\net8.0\UseCases.AssemblyInfo.cs
+F:\web_practice\authorizedBasedProject\UseCases\obj\Debug\net8.0\UseCases.csproj.CoreCompileInputs.cache
+F:\web_practice\authorizedBasedProject\UseCases\obj\Debug\net8.0\UseCases.csproj.Up2Date
+F:\web_practice\authorizedBasedProject\UseCases\obj\Debug\net8.0\UseCases.dll
+F:\web_practice\authorizedBasedProject\UseCases\obj\Debug\net8.0\refint\UseCases.dll
+F:\web_practice\authorizedBasedProject\UseCases\obj\Debug\net8.0\UseCases.pdb
+F:\web_practice\authorizedBasedProject\UseCases\obj\Debug\net8.0\ref\UseCases.dll

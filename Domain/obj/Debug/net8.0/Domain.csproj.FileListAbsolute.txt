@@ -1,0 +1,12 @@
+F:\web_practice\authorizedBasedProject\Domain\bin\Debug\net8.0\Domain.deps.json
+F:\web_practice\authorizedBasedProject\Domain\bin\Debug\net8.0\Domain.dll
+F:\web_practice\authorizedBasedProject\Domain\bin\Debug\net8.0\Domain.pdb
+F:\web_practice\authorizedBasedProject\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\web_practice\authorizedBasedProject\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+F:\web_practice\authorizedBasedProject\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+F:\web_practice\authorizedBasedProject\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+F:\web_practice\authorizedBasedProject\Domain\obj\Debug\net8.0\Domain.dll
+F:\web_practice\authorizedBasedProject\Domain\obj\Debug\net8.0\refint\Domain.dll
+F:\web_practice\authorizedBasedProject\Domain\obj\Debug\net8.0\Domain.pdb
+F:\web_practice\authorizedBasedProject\Domain\obj\Debug\net8.0\ref\Domain.dll
+F:\web_practice\authorizedBasedProject\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
